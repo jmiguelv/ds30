@@ -2,12 +2,12 @@ matplotlib
 numpy
 scipy
 seaborn
-git+git://github.com/thedataincubator/onlineldavb.git@master
+git+https://github.com/thedataincubator/onlineldavb.git@master
 wordcloud
 ipython[all]
+requests_oauthlib
 simplejson
 requests
-requests_oauthlib
 nltk
 scikit-learn
 pandas
